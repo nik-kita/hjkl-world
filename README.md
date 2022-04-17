@@ -20,9 +20,9 @@ setxkbmap -option
 ### 2. now you should open "Settings" -> "Keyboard Shortcuts" and set two commands
 * load alt+hjkl mode
 ```
-xmodmap .on_hjkl
+xmodmap .hjkl_on
 ```
 * unload alt+hjkl mode
 ```
-sh .off_hjkl
+sh .hjkl_off
 ```
