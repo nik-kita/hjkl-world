@@ -1,5 +1,5 @@
 # ubuntu-hjkl
-### 1.
+### 1. setting use "LEFT_ALT" + ("H" | "J" | "K" | "L" | "M") for vim-arrow global behavior
 
 ```
 sudo apt update && \
